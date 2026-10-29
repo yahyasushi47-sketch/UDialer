@@ -1,0 +1,6 @@
+{
+  "name": "PulseDial",
+  "description": "A smart contact dialer with custom themes, quick-dial shortcuts, and voice-activated search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
